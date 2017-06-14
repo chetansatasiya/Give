@@ -948,6 +948,7 @@ form.give-form {
       background-color: #FDFDFD;
       border: 1px solid #ccc;
       margin: 0;
+      height: inherit;
       padding: .5em; }
       form[id*='give-form'] .form-row select:focus, form[id*='give-form'] .form-row textarea:focus, form[id*='give-form'] .form-row input[type="text"]:focus, form[id*='give-form'] .form-row input[type="tel"]:focus, form[id*='give-form'] .form-row input[type="email"]:focus, form[id*='give-form'] .form-row input[type="password"]:focus,
       #give-recurring-form .form-row select:focus,
